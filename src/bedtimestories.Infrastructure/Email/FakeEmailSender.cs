@@ -1,7 +1,7 @@
-﻿using bedtimestories.Core.Interfaces;
+﻿using BedtimeStories.Core.Interfaces;
 using Microsoft.Extensions.Logging;
 
-namespace bedtimestories.Infrastructure.Email;
+namespace BedtimeStories.Infrastructure.Email;
 
 public class FakeEmailSender(ILogger<FakeEmailSender> _logger) : IEmailSender
 {

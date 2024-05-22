@@ -1,11 +1,11 @@
 ﻿using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
-using bedtimestories.UseCases.Contributors.Create;
+using BedtimeStories.Core.ContributorAggregate;
+using BedtimeStories.UseCases.Contributors.Create;
 using FluentAssertions;
 using NSubstitute;
 using Xunit;
 
-namespace bedtimestories.UnitTests.UseCases.Contributors;
+namespace BedtimeStories.UnitTests.UseCases.Contributors;
 
 public class CreateContributorHandlerHandle
 {

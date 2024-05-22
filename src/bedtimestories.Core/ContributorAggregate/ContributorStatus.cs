@@ -1,6 +1,6 @@
 ﻿using Ardalis.SmartEnum;
 
-namespace bedtimestories.Core.ContributorAggregate;
+namespace BedtimeStories.Core.ContributorAggregate;
 
 public class ContributorStatus : SmartEnum<ContributorStatus>
 {

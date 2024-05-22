@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\bedtimestories.Infrastructure\bedtimestories.Infrastructure.csproj" />
-    <ProjectReference Include="..\bedtimestories.UnitTests\bedtimestories.UnitTests.csproj" />
+    <ProjectReference Include="..\..\src\BedtimeStories.Infrastructure\BedtimeStories.Infrastructure.csproj" />
+    <ProjectReference Include="..\BedtimeStories.UnitTests\BedtimeStories.UnitTests.csproj" />
   </ItemGroup>
 
   <ItemGroup>

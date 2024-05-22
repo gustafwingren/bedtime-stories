@@ -1,10 +1,10 @@
 ﻿using Ardalis.Result;
-using bedtimestories.UseCases.Contributors.Get;
-using bedtimestories.UseCases.Contributors.Update;
+using BedtimeStories.UseCases.Contributors.Get;
+using BedtimeStories.UseCases.Contributors.Update;
 using FastEndpoints;
 using MediatR;
 
-namespace bedtimestories.Web.Contributors;
+namespace BedtimeStories.Web.Contributors;
 
 /// <summary>
 /// Update an existing Contributor.

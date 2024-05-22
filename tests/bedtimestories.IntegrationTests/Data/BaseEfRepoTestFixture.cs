@@ -1,11 +1,11 @@
 ﻿using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
-using bedtimestories.Infrastructure.Data;
+using BedtimeStories.Core.ContributorAggregate;
+using BedtimeStories.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using NSubstitute;
 
-namespace bedtimestories.IntegrationTests.Data;
+namespace BedtimeStories.IntegrationTests.Data;
 
 public abstract class BaseEfRepoTestFixture
 {

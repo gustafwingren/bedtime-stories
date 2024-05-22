@@ -1,4 +1,4 @@
-﻿namespace bedtimestories.Infrastructure.Data.Config;
+﻿namespace BedtimeStories.Infrastructure.Data.Config;
 
 public static class DataSchemaConstants
 {

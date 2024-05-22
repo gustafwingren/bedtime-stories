@@ -1,6 +1,6 @@
 ﻿using Ardalis.Result;
 
-namespace bedtimestories.UseCases.Contributors.Create;
+namespace BedtimeStories.UseCases.Contributors.Create;
 
 /// <summary>
 /// Create a new Contributor.

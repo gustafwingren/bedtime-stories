@@ -1,9 +1,9 @@
 ﻿using Ardalis.HttpClientTestExtensions;
-using bedtimestories.Infrastructure.Data;
-using bedtimestories.Web.Contributors;
+using BedtimeStories.Infrastructure.Data;
+using BedtimeStories.Web.Contributors;
 using Xunit;
 
-namespace bedtimestories.FunctionalTests.ApiEndpoints;
+namespace BedtimeStories.FunctionalTests.ApiEndpoints;
 
 [Collection("Sequential")]
 public class ContributorGetById(CustomWebApplicationFactory<Program> factory) : IClassFixture<CustomWebApplicationFactory<Program>>

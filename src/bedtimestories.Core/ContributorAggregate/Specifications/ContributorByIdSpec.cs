@@ -1,6 +1,6 @@
 ﻿using Ardalis.Specification;
 
-namespace bedtimestories.Core.ContributorAggregate.Specifications;
+namespace BedtimeStories.Core.ContributorAggregate.Specifications;
 
 public class ContributorByIdSpec : Specification<Contributor>
 {

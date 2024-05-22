@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace bedtimestories.Infrastructure.Data;
+namespace BedtimeStories.Infrastructure.Data;
 
 public static class AppDbContextExtensions
 {

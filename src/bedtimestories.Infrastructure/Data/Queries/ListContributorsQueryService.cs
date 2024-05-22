@@ -1,8 +1,8 @@
-﻿using bedtimestories.UseCases.Contributors;
-using bedtimestories.UseCases.Contributors.List;
+﻿using BedtimeStories.UseCases.Contributors;
+using BedtimeStories.UseCases.Contributors.List;
 using Microsoft.EntityFrameworkCore;
 
-namespace bedtimestories.Infrastructure.Data.Queries;
+namespace BedtimeStories.Infrastructure.Data.Queries;
 
 public class ListContributorsQueryService(AppDbContext _db) : IListContributorsQueryService
 {

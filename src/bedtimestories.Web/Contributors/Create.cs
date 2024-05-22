@@ -1,8 +1,8 @@
-﻿using bedtimestories.UseCases.Contributors.Create;
+﻿using BedtimeStories.UseCases.Contributors.Create;
 using FastEndpoints;
 using MediatR;
 
-namespace bedtimestories.Web.Contributors;
+namespace BedtimeStories.Web.Contributors;
 
 /// <summary>
 /// Create a new Contributor

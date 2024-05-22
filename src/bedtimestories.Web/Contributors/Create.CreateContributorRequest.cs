@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace bedtimestories.Web.Contributors;
+namespace BedtimeStories.Web.Contributors;
 
 public class CreateContributorRequest
 {

@@ -37,8 +37,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\bedtimestories.Core\bedtimestories.Core.csproj" />
-    <ProjectReference Include="..\..\src\bedtimestories.UseCases\bedtimestories.UseCases.csproj" />
+    <ProjectReference Include="..\..\src\BedtimeStories.Core\BedtimeStories.Core.csproj" />
+    <ProjectReference Include="..\..\src\BedtimeStories.UseCases\BedtimeStories.UseCases.csproj" />
   </ItemGroup>
 
 </Project>

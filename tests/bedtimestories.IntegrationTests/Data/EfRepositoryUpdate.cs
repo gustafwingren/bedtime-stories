@@ -1,8 +1,8 @@
-﻿using bedtimestories.Core.ContributorAggregate;
+﻿using BedtimeStories.Core.ContributorAggregate;
 using Microsoft.EntityFrameworkCore;
 using Xunit;
 
-namespace bedtimestories.IntegrationTests.Data;
+namespace BedtimeStories.IntegrationTests.Data;
 
 public class EfRepositoryUpdate : BaseEfRepoTestFixture
 {

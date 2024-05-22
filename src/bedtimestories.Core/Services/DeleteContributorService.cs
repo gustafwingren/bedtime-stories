@@ -1,12 +1,12 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
-using bedtimestories.Core.ContributorAggregate.Events;
-using bedtimestories.Core.Interfaces;
+using BedtimeStories.Core.ContributorAggregate;
+using BedtimeStories.Core.ContributorAggregate.Events;
+using BedtimeStories.Core.Interfaces;
 using MediatR;
 using Microsoft.Extensions.Logging;
 
-namespace bedtimestories.Core.Services;
+namespace BedtimeStories.Core.Services;
 
 /// <summary>
 /// This is here mainly so there's an example of a domain service

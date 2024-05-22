@@ -1,10 +1,10 @@
-﻿using bedtimestories.Core.Interfaces;
+﻿using BedtimeStories.Core.Interfaces;
 using MailKit.Net.Smtp;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using MimeKit;
 
-namespace bedtimestories.Infrastructure.Email;
+namespace BedtimeStories.Infrastructure.Email;
 
 public class MimeKitEmailSender : IEmailSender
 {

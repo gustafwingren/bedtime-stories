@@ -1,4 +1,4 @@
-﻿namespace bedtimestories.Web.Contributors;
+﻿namespace BedtimeStories.Web.Contributors;
 
 public class ContributorListResponse
 {

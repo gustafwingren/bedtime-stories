@@ -1,9 +1,9 @@
-﻿using bedtimestories.Core.ContributorAggregate.Events;
-using bedtimestories.Core.Interfaces;
+﻿using BedtimeStories.Core.ContributorAggregate.Events;
+using BedtimeStories.Core.Interfaces;
 using MediatR;
 using Microsoft.Extensions.Logging;
 
-namespace bedtimestories.Core.ContributorAggregate.Handlers;
+namespace BedtimeStories.Core.ContributorAggregate.Handlers;
 
 /// <summary>
 /// NOTE: Internal because ContributorDeleted is also marked as internal.

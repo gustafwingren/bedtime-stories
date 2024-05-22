@@ -1,17 +1,17 @@
 ﻿using Ardalis.GuardClauses;
 using Ardalis.SharedKernel;
-using bedtimestories.Core.Interfaces;
-using bedtimestories.Core.Services;
-using bedtimestories.Infrastructure.Data;
-using bedtimestories.Infrastructure.Data.Queries;
-using bedtimestories.Infrastructure.Email;
-using bedtimestories.UseCases.Contributors.List;
+using BedtimeStories.Core.Interfaces;
+using BedtimeStories.Core.Services;
+using BedtimeStories.Infrastructure.Data;
+using BedtimeStories.Infrastructure.Data.Queries;
+using BedtimeStories.Infrastructure.Email;
+using BedtimeStories.UseCases.Contributors.List;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace bedtimestories.Infrastructure;
+namespace BedtimeStories.Infrastructure;
 public static class InfrastructureServiceExtensions
 {
   public static IServiceCollection AddInfrastructureServices(

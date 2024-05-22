@@ -1,6 +1,6 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
 
-namespace bedtimestories.UseCases.Contributors.List;
+namespace BedtimeStories.UseCases.Contributors.List;
 
 public record ListContributorsQuery(int? Skip, int? Take) : IQuery<Result<IEnumerable<ContributorDTO>>>;

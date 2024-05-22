@@ -1,8 +1,8 @@
-﻿using bedtimestories.Core.ContributorAggregate;
+﻿using BedtimeStories.Core.ContributorAggregate;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace bedtimestories.Infrastructure.Data;
+namespace BedtimeStories.Infrastructure.Data;
 
 public static class SeedData
 {

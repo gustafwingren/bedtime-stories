@@ -1,12 +1,12 @@
 ﻿using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
-using bedtimestories.Core.Services;
+using BedtimeStories.Core.ContributorAggregate;
+using BedtimeStories.Core.Services;
 using MediatR;
 using Microsoft.Extensions.Logging;
 using NSubstitute;
 using Xunit;
 
-namespace bedtimestories.UnitTests.Core.Services;
+namespace BedtimeStories.UnitTests.Core.Services;
 
 public class DeleteContributorService_DeleteContributor
 {

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace bedtimestories.Infrastructure.Data.Migrations;
+namespace BedtimeStories.Infrastructure.Data.Migrations;
 
 /// <inheritdoc />
 public partial class PhoneNumber : Migration

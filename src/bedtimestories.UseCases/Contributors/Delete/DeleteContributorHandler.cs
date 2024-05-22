@@ -1,8 +1,8 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
-using bedtimestories.Core.Interfaces;
+using BedtimeStories.Core.Interfaces;
 
-namespace bedtimestories.UseCases.Contributors.Delete;
+namespace BedtimeStories.UseCases.Contributors.Delete;
 
 public class DeleteContributorHandler(IDeleteContributorService _deleteContributorService)
   : ICommandHandler<DeleteContributorCommand, Result>

@@ -1,10 +1,10 @@
 ﻿using Ardalis.Result;
-using bedtimestories.UseCases.Contributors;
-using bedtimestories.UseCases.Contributors.List;
+using BedtimeStories.UseCases.Contributors;
+using BedtimeStories.UseCases.Contributors.List;
 using FastEndpoints;
 using MediatR;
 
-namespace bedtimestories.Web.Contributors;
+namespace BedtimeStories.Web.Contributors;
 
 /// <summary>
 /// List all Contributors

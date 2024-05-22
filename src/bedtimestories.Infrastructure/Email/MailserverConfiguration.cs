@@ -1,4 +1,4 @@
-﻿namespace bedtimestories.Infrastructure.Email;
+﻿namespace BedtimeStories.Infrastructure.Email;
 
 public class MailserverConfiguration()
 {

@@ -1,6 +1,6 @@
 ﻿using Ardalis.SharedKernel;
 
-namespace bedtimestories.Core.ContributorAggregate.Events;
+namespace BedtimeStories.Core.ContributorAggregate.Events;
 
 /// <summary>
 /// A domain event that is dispatched whenever a contributor is deleted.

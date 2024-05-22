@@ -1,4 +1,4 @@
-﻿namespace bedtimestories.Core.Interfaces;
+﻿namespace BedtimeStories.Core.Interfaces;
 
 public interface IEmailSender
 {

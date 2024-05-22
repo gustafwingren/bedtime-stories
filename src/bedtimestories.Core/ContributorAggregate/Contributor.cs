@@ -1,7 +1,7 @@
 ﻿using Ardalis.GuardClauses;
 using Ardalis.SharedKernel;
 
-namespace bedtimestories.Core.ContributorAggregate;
+namespace BedtimeStories.Core.ContributorAggregate;
 
 public class Contributor(string name) : EntityBase, IAggregateRoot
 {

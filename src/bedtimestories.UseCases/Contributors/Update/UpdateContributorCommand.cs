@@ -1,6 +1,6 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
 
-namespace bedtimestories.UseCases.Contributors.Update;
+namespace BedtimeStories.UseCases.Contributors.Update;
 
 public record UpdateContributorCommand(int ContributorId, string NewName) : ICommand<Result<ContributorDTO>>;

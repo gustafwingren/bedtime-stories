@@ -1,7 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 using MediatR;
 
-namespace bedtimestories.UnitTests;
+namespace BedtimeStories.UnitTests;
 
 public class NoOpMediator : IMediator
 {

@@ -1,9 +1,9 @@
 ﻿using Ardalis.Result;
-using bedtimestories.UseCases.Contributors.Get;
+using BedtimeStories.UseCases.Contributors.Get;
 using FastEndpoints;
 using MediatR;
 
-namespace bedtimestories.Web.Contributors;
+namespace BedtimeStories.Web.Contributors;
 
 /// <summary>
 /// Get a Contributor by integer ID.

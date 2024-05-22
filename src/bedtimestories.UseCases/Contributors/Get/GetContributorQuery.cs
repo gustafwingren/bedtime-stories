@@ -1,6 +1,6 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
 
-namespace bedtimestories.UseCases.Contributors.Get;
+namespace BedtimeStories.UseCases.Contributors.Get;
 
 public record GetContributorQuery(int ContributorId) : IQuery<Result<ContributorDTO>>;

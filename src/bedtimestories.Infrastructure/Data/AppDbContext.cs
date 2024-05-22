@@ -1,9 +1,9 @@
 ﻿using System.Reflection;
 using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
+using BedtimeStories.Core.ContributorAggregate;
 using Microsoft.EntityFrameworkCore;
 
-namespace bedtimestories.Infrastructure.Data;
+namespace BedtimeStories.Infrastructure.Data;
 public class AppDbContext : DbContext
 {
   private readonly IDomainEventDispatcher? _dispatcher;

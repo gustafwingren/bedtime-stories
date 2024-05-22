@@ -1,8 +1,8 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
+using BedtimeStories.Core.ContributorAggregate;
 
-namespace bedtimestories.UseCases.Contributors.Create;
+namespace BedtimeStories.UseCases.Contributors.Create;
 
 public class CreateContributorHandler(IRepository<Contributor> _repository)
   : ICommandHandler<CreateContributorCommand, Result<int>>

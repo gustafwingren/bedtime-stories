@@ -1,7 +1,7 @@
-﻿using bedtimestories.Core.ContributorAggregate;
+﻿using BedtimeStories.Core.ContributorAggregate;
 using Xunit;
 
-namespace bedtimestories.UnitTests.Core.ContributorAggregate;
+namespace BedtimeStories.UnitTests.Core.ContributorAggregate;
 
 public class ContributorConstructor
 {

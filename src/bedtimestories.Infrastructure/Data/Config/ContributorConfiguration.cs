@@ -1,8 +1,8 @@
-﻿using bedtimestories.Core.ContributorAggregate;
+﻿using BedtimeStories.Core.ContributorAggregate;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace bedtimestories.Infrastructure.Data.Config;
+namespace BedtimeStories.Infrastructure.Data.Config;
 
 public class ContributorConfiguration : IEntityTypeConfiguration<Contributor>
 {

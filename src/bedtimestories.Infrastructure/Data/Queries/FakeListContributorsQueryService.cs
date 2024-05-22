@@ -1,7 +1,7 @@
-﻿using bedtimestories.UseCases.Contributors;
-using bedtimestories.UseCases.Contributors.List;
+﻿using BedtimeStories.UseCases.Contributors;
+using BedtimeStories.UseCases.Contributors.List;
 
-namespace bedtimestories.Infrastructure.Data.Queries;
+namespace BedtimeStories.Infrastructure.Data.Queries;
 
 public class FakeListContributorsQueryService : IListContributorsQueryService
 {

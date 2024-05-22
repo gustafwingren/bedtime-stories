@@ -1,3 +1,3 @@
-﻿namespace bedtimestories.Web.Contributors;
+﻿namespace BedtimeStories.Web.Contributors;
 
 public record ContributorRecord(int Id, string Name, string? PhoneNumber);

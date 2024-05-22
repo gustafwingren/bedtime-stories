@@ -16,7 +16,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\bedtimestories.Core\bedtimestories.Core.csproj" />
-    <ProjectReference Include="..\bedtimestories.UseCases\bedtimestories.UseCases.csproj" />
+    <ProjectReference Include="..\BedtimeStories.Core\BedtimeStories.Core.csproj" />
+    <ProjectReference Include="..\BedtimeStories.UseCases\BedtimeStories.UseCases.csproj" />
   </ItemGroup>
 </Project>

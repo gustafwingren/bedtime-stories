@@ -21,8 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\bedtimestories.Infrastructure\bedtimestories.Infrastructure.csproj" />
-    <ProjectReference Include="..\bedtimestories.UseCases\bedtimestories.UseCases.csproj" />
+    <ProjectReference Include="..\BedtimeStories.Infrastructure\BedtimeStories.Infrastructure.csproj" />
+    <ProjectReference Include="..\BedtimeStories.UseCases\BedtimeStories.UseCases.csproj" />
   </ItemGroup>
 
 </Project>

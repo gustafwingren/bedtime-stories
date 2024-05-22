@@ -1,9 +1,9 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
-using bedtimestories.Core.ContributorAggregate.Specifications;
+using BedtimeStories.Core.ContributorAggregate;
+using BedtimeStories.Core.ContributorAggregate.Specifications;
 
-namespace bedtimestories.UseCases.Contributors.Get;
+namespace BedtimeStories.UseCases.Contributors.Get;
 
 /// <summary>
 /// Queries don't necessarily need to use repository methods, but they can if it's convenient

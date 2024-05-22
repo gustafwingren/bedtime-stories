@@ -1,9 +1,9 @@
 ﻿using System.Net.Mail;
-using bedtimestories.Core.Interfaces;
+using BedtimeStories.Core.Interfaces;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace bedtimestories.Infrastructure.Email;
+namespace BedtimeStories.Infrastructure.Email;
 
 /// <summary>
 /// MimeKit is recommended over this now:

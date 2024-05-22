@@ -1,2 +1,2 @@
-﻿namespace bedtimestories.UseCases.Contributors;
+﻿namespace BedtimeStories.UseCases.Contributors;
 public record ContributorDTO(int Id, string Name, string? PhoneNumber);

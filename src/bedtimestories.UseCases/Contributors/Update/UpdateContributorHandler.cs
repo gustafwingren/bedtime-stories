@@ -1,8 +1,8 @@
 ﻿using Ardalis.Result;
 using Ardalis.SharedKernel;
-using bedtimestories.Core.ContributorAggregate;
+using BedtimeStories.Core.ContributorAggregate;
 
-namespace bedtimestories.UseCases.Contributors.Update;
+namespace BedtimeStories.UseCases.Contributors.Update;
 
 public class UpdateContributorHandler(IRepository<Contributor> _repository)
   : ICommandHandler<UpdateContributorCommand, Result<ContributorDTO>>

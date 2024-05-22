@@ -1,4 +1,4 @@
-﻿namespace bedtimestories.UseCases.Contributors.List;
+﻿namespace BedtimeStories.UseCases.Contributors.List;
 
 /// <summary>
 /// Represents a service that will actually fetch the necessary data

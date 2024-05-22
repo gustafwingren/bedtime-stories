@@ -1,7 +1,7 @@
-﻿using bedtimestories.Core.ContributorAggregate;
+﻿using BedtimeStories.Core.ContributorAggregate;
 using Xunit;
 
-namespace bedtimestories.IntegrationTests.Data;
+namespace BedtimeStories.IntegrationTests.Data;
 
 public class EfRepositoryAdd : BaseEfRepoTestFixture
 {

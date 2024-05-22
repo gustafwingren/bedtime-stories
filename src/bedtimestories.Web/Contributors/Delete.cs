@@ -1,9 +1,9 @@
 ﻿using Ardalis.Result;
-using bedtimestories.UseCases.Contributors.Delete;
+using BedtimeStories.UseCases.Contributors.Delete;
 using FastEndpoints;
 using MediatR;
 
-namespace bedtimestories.Web.Contributors;
+namespace BedtimeStories.Web.Contributors;
 
 /// <summary>
 /// Delete a Contributor.

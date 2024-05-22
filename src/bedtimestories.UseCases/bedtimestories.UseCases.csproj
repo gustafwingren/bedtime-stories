@@ -7,7 +7,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\bedtimestories.Core\bedtimestories.Core.csproj" />
+    <ProjectReference Include="..\BedtimeStories.Core\BedtimeStories.Core.csproj" />
   </ItemGroup>
 
 </Project>
